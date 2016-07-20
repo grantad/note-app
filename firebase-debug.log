@@ -1,0 +1,99 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     darwin
+[debug] Node Version: v4.4.7
+[debug] Time:         Mon Jul 18 2016 21:33:20 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/angrant/work/polymerapp
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     darwin
+[debug] Node Version: v4.4.7
+[debug] Time:         Tue Jul 19 2016 03:11:42 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/angrant/work/polymerapp
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5001
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     darwin
+[debug] Node Version: v4.4.7
+[debug] Time:         Tue Jul 19 2016 03:18:43 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/angrant/work/polymerapp
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5002
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     darwin
+[debug] Node Version: v4.4.7
+[debug] Time:         Tue Jul 19 2016 03:40:40 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/angrant/work/polymerapp
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[warn] ⚠  Port 5002 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5003
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     darwin
+[debug] Node Version: v4.4.7
+[debug] Time:         Tue Jul 19 2016 20:24:28 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/angrant/work/polymerapp
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[warn] ⚠  Port 5002 is not available. Trying another port...
+[warn] ⚠  Port 5003 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5004
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.4
+[debug] Platform:     darwin
+[debug] Node Version: v4.4.7
+[debug] Time:         Tue Jul 19 2016 20:34:00 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/angrant/work/polymerapp
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[warn] ⚠  Port 5002 is not available. Trying another port...
+[warn] ⚠  Port 5003 is not available. Trying another port...
+[warn] ⚠  Port 5004 is not available. Trying another port...
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5005
